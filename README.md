@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Your Name</h1>
+# <h1 align="center">Hi 👋, I'm Kuldeep</h1>
 
 <div align="center">
 
@@ -6,51 +6,53 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+
+### 🚀 My Motto
+
+**"Try Again. Fail Again. Learn Again. Success Belongs to Those Who Never Give Up."**
+
+🔑 **Failure is the Key to Success**
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Pursuing **Bachelor of Computer Applications (BCA) - 3rd Year**
+🎓 Pursuing **BCA (3rd Year)**
 
 💼 Currently working as a **Coding Skills Intern**
 
 💻 Passionate **Frontend Developer**
 
-🌱 Continuously learning and improving my development skills
+🌱 Learning new technologies and improving my development skills every day
 
 🎯 Focused on creating responsive, interactive, and user-friendly websites
 
-⚡ Interested in Web Development, UI Design, and Open Source Contributions
+⚡ Dedicated to continuous growth and self-improvement
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 </div>
 
-### Frontend Development
+### Languages & Technologies
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 🔧 Git & GitHub
+* 💻 VS Code
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -72,42 +74,22 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
-
-</div>
-
----
-
-## 🌟 Current Goals
+## 🎯 Current Goals
 
 * Master Advanced JavaScript
-* Build Real-World Projects
 * Learn React.js
+* Build Real-World Projects
 * Contribute to Open Source
-* Improve Problem-Solving Skills
-* Grow as a Full-Stack Developer
+* Strengthen Problem-Solving Skills
+* Become a Professional Full-Stack Developer
 
 ---
 
-## 💭 My Mindset
+## 💭 Philosophy
 
-<div align="center">
+> **"Every expert was once a beginner. Every professional was once an amateur. Every success story contains failures that were never allowed to become permanent."**
 
-### 🚀 "Try Again. Fail Again. Learn Again."
-
-**Failure is not the opposite of success — it is part of success.**
-
-🔑 **Failure is the Key to Success**
-
-Every mistake teaches a lesson. Every challenge builds experience. Every failure brings me one step closer to my goals.
-
-**Never Stop Learning. Never Stop Building. Never Give Up.**
-
-</div>
+I believe growth comes from consistency, learning from mistakes, and never quitting when challenges appear.
 
 ---
 
@@ -123,10 +105,6 @@ Every mistake teaches a lesson. Every challenge builds experience. Every failure
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </p>
 
 ---
@@ -136,5 +114,7 @@ Every mistake teaches a lesson. Every challenge builds experience. Every failure
 ### 💻 Code • Learn • Build • Repeat
 
 ⭐ Thanks for visiting my profile!
+
+**"Dream Big. Work Hard. Stay Consistent." 🚀**
 
 </div>
