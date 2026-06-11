@@ -1,45 +1,29 @@
 <div align="center">
 
-# 👋 Hey, I'm Kuldeep
+# 👋 Hi, I'm Kuldeep
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+💻;BCA+3rd+Year+Student+🎓;Coding+Skills+Intern+🚀;HTML+%7C+CSS+%7C+JavaScript;Never+Stop+Learning+🔥" />
+### 💻 Frontend Developer | 🎓 BCA 3rd Year Student | 🚀 Coding Skills Intern
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f6f2c8f6-4c0a-4c89-b0c8-b6e4f8b94f59.gif" width="500">
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 MY MOTTO
-
-### ✨ Try Again • Fail Again • Learn Again ✨
-
-# 🔑 Failure Is The Key To Success
-
-*"Every failure teaches a lesson. Every lesson builds experience. Every experience creates success."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer;Coding+Skills+Intern;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Web+Experiences;Learning+Something+New+Every+Day" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-```javascript
-const kuldeep = {
-    education: "BCA 3rd Year",
-    role: "Frontend Developer",
-    internship: "Coding Skills Intern",
-    languages: ["HTML", "CSS", "JavaScript"],
-    currentGoal: "Become a Full Stack Developer",
-    motto: "Never Give Up 🚀"
-};
-```
+I'm a passionate Frontend Developer and BCA 3rd-year student who enjoys creating clean, responsive, and user-friendly websites. I believe in continuous learning and improving through practice, challenges, and real-world projects.
+
+* 🎓 Pursuing Bachelor of Computer Applications (BCA)
+* 💼 Currently working as a Coding Skills Intern
+* 💻 Skilled in HTML, CSS, and JavaScript
+* 🌱 Exploring modern web technologies and best practices
+* 🎯 Focused on building impactful and responsive web applications
+* ⚡ Always eager to learn and grow as a developer
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -49,27 +33,33 @@ const kuldeep = {
 
 ---
 
-## 🌟 What I Do
-
-🎨 Build Responsive Websites
-
-⚡ Create Interactive User Interfaces
-
-📱 Develop Mobile-Friendly Designs
-
-🚀 Learn New Technologies Daily
-
-💡 Transform Ideas Into Reality
-
----
-
-## 📊 GitHub Analytics
+## 💡 Developer Philosophy
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🔑 Try Again • Fail Again • Learn Again
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+> **"Failure is not the opposite of success; it is a part of success."**
+
+Every challenge is an opportunity to improve.
+
+Every mistake teaches a valuable lesson.
+
+Every failure brings me one step closer to my goals.
+
+### 🚀 Success Comes to Those Who Never Stop Trying
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -79,39 +69,20 @@ const kuldeep = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Goals
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+* Master Advanced JavaScript
+* Learn React.js
+* Build Real-World Projects
+* Contribute to Open Source
+* Strengthen Problem-Solving Skills
+* Become a Full-Stack Developer
 
 ---
 
@@ -120,35 +91,23 @@ const kuldeep = {
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ### 💻 Code • Learn • Build • Repeat
 
-### 🚀 Dream Big | Work Hard | Stay Consistent
+**"Dream Big. Stay Consistent. Never Give Up."** 🚀
 
-⭐ Thanks For Visiting My Profile ⭐
+⭐ Thanks for visiting my profile!
 
 </div>
